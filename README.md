@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atomicstructure/](https://github.com/atomicstructure/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/oluwafemi-ogundare-ab411030/](https://www.linkedin.com/in/oluwafemi-ogundare-ab411030/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ogundareoluwafemi/](https://www.linkedin.com/in/ogundareoluwafemi/)
 
 - 💬 Ask me about **NodeJs and Django**
 
@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atomictsructure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomictsructure" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwafemi-ogundare-ab411030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwafemi-ogundare-ab411030/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ogundareoluwafemi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogundaroluwafemi/" height="30" width="40" /></a>
 <a href="https://instagram.com/atomictsructure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomictsructure" height="30" width="40" /></a>
 <a href="https://medium.com/@ogundarearnold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ogundarearnold" height="30" width="40" /></a>
 </p>
