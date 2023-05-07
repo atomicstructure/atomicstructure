@@ -28,6 +28,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<ul>
+  <li>https://medium.com/@ogundarearnold/my-alx-devops-journey-e10a2f232cd7</li>
+  <li>https://medium.com/@ogundarearnold/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-90fd2f9265a2</li>
+  <li>https://www.linkedin.com/posts/ogundareoluwafemi_nodejs-softwareengineering-data-activity-7060277057812897792-rL60?utm_source=share&utm_medium=member_desktop</li>
+</ul>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
