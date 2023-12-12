@@ -10,19 +10,17 @@
 
 - 🔭 I’m currently working on [Habitable Planet](https://github.com/atomicstructure/habitableplanet)
 
-- 🌱 I’m currently learning **NodeJs and Django**
+- 🌱 I’m currently learning **Cross-Platform Mobile Application with Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **NodeJs and Django Back-End Projects**
+- 👯 I’m looking to collaborate on **Django Back-End Projects and Flutter Mobile Apps Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atomicstructure/](https://github.com/atomicstructure/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ogundareoluwafemi/](https://www.linkedin.com/in/ogundareoluwafemi/)
 
-- 💬 Ask me about **NodeJs and Django**
+- 💬 Ask me about **Python, Django and Flutter**
 
 - 📫 How to reach me **ogundarearnold@gmail.com**
-
-- 📄 Know about my experiences [unavailable for now](unavailable for now)
 
 - ⚡ Fun fact **I am an humorous person**
 
